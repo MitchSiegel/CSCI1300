@@ -1,0 +1,4 @@
+Chick-fil-a~9~5~5
+McDonalds~2~2~2~2
+Snarfburger~10~4~3
+Cosmo's Pizza~7~3~2

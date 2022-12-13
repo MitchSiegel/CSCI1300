@@ -1,0 +1,42 @@
+Animated Armor,1
+Bugbear,1
+Harpy,1
+Goblin,1
+Giant Rat,1
+Scarecrow,1
+Skeleton,1
+Minotaur,2
+Owlbear,2
+Pegasus,2
+Skeleton Archer,2
+Giant Enemy Spider,2
+Giant Viper,2
+Worg,2
+Giant Wasp,2
+Banshee,2
+Earl of Lemongrab,2
+Wereboar,2
+Giant Crocodile,3
+Troll,3
+Giant Eagle,3
+Giant Fire Beetle,3
+Fern,3
+Hobgoblin Warlord,3
+Skeleton Warrior,3
+Mammoth,3
+Stone Giant,4
+Night Hag,4
+Twilight Lich,4
+Assassin,4
+Giant Octopus,4
+Hydra,4
+Skeleton Champion,4
+Cloud Giant,5
+Fire Giant,5
+Silver Dragon,5
+Storm Giant,5
+Vampire,5
+King of Ooo,5
+Lich,5
+Demogorgon,5
+Sorcerer,6

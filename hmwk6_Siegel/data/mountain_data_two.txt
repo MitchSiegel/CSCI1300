@@ -1,0 +1,6 @@
+Pikes Peak|14098
+
+Vermilion Peak|1304
+Snowmass Mountain|14098
+
+Mount Elbert|14433
